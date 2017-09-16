@@ -1,0 +1,16 @@
+{
+    "name": "HCSR04",
+    "keywords": "IoT",
+    "description": "Simple library for the HC-SR04 sonar senor.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/g3rb3n/HC-SR04.git"
+    },
+    "version": "0.1",
+    "exclude": "tests",
+    "examples": "examples/*/src/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif"
+    ]
+}
